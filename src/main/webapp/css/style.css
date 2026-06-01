@@ -1,0 +1,88 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 12, 2026, 5:31:00 AM
+    Author     : my
+*/
+body{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+    background:#f5f5f5;
+}
+.navbar{
+    background:#0d1b52;
+    padding:15px;
+}
+.navbar a{
+    color:white;
+    text-decoration:none;
+    margin-right:20px;
+    font-size:18px;
+}
+.navbar a:hover{
+    color:yellow;
+}
+.hero{
+    height:400px;
+    background:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0mGB6Ggp_f5C7VsL-rr0coSf2lbnQV7hAg&s');
+    background-size:cover;
+    background-position:center;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    font-size:40px;
+    font-weight:bold;
+    text-shadow:2px 2px 6px black;
+    
+}
+.section{
+    padding:40px;
+}
+.card{
+    background:white;
+    padding:20px;
+    margin:20px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px #ccc;
+}
+.center-box{
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    background-color:#88857d;
+}
+.center-box h1{
+    font-size:40px;
+    color:black;
+}
+.center-box p{
+    font-size:18px;
+    color:black;
+}
+.btn-group{
+    margin-top:20px;
+    display:flex;
+    gap:15px;
+}
+.btn1,btn2{
+    padding:10px 20px;
+    border:none;
+    cursor:pointer;
+    font-size:16px;
+    border-radius:5px;
+}
+.btn1{
+    background-color:#007bff;
+    color:white;
+}
+.btn2{
+    background-color:#28a745;
+    color:white;
+}
