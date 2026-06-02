@@ -1,15 +1,15 @@
-# ATI Web Page 🌐
+# ATI Web Page 
 
 This is my Web Application project. For this project, I have developed a comprehensive web page for my educational institute, the **Badulla Advanced Technology Institute (ATI)**.
 
-## 🚀 Technologies Used
+##  Technologies Used
 * **Backend:** Java (Maven Project)
 * **IDE:** NetBeans
 * **Frontend:** HTML, CSS, JavaScript
 * **Database:** MySQL
 * **Server:** Apache Tomcat / TomEE
 
-## 🛠️ How to Run
+##  How to Run
 Follow these steps to run the project on your local machine:
 
 1. **Clone or Download** this repository to your computer.
@@ -19,5 +19,5 @@ Follow these steps to run the project on your local machine:
 5. Right-click on the project, select **Clean and Build** (Maven will download all the required dependencies automatically).
 6. Right-click on the project and click **Run**.
 
-## 👤 Author
+##  Author
 * **Dulakshi Jayasundara** - [@dulakshijayasundara08-blip](https://github.com/dulakshijayasundara08-blip)
