@@ -9,6 +9,15 @@ This is my Web Application project. For this project, I have developed a compreh
 * **Database:** MySQL
 * **Server:** Apache Tomcat / TomEE
 
+## Project Structure
+```text
+src/
+├── main/
+│   ├── java/            # Logic (Controllers, DAOs, Models)
+│   ├── resources/       # Configuration
+│   └── webapp/          # Frontend (CSS, JS, Images, JSPs)
+└── test/                # Unit Tests
+
 ##  How to Run
 Follow these steps to run the project on your local machine:
 
